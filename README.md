@@ -1,1 +1,1 @@
-It is all abour for Beginners to Expert Level Questions on Javascript 
+It is all about for Beginners to Expert Level Questions on Javascript 
